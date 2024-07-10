@@ -2,7 +2,7 @@
 ### 📃 This page is Guide on How to Use SELECTSTAR-PM1 GitHub
 ### 🚀 Let's Start our own smart(?) Github Life in the PM 1 Team by freely Uploading the Python Code used in respective Projects!               
 
-#### First at all, Creating a New Repository for your Project
+#### Follow the steps below carefully, Creating a New Repository for your Project
 
 1. **Creat a New Repository**
    - Click on the "New Repository"
