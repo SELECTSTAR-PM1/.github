@@ -8,7 +8,7 @@
    - Click on the "New Repository"
   
 2. **Repository Details**
-   - **Repository Name**: Enter the name of your project
+   - **Repository name**: Enter the name of your project
    - **Description** (optional): Add an optional description for your repository
    - **Visibility**: Select **Private**
      
@@ -27,3 +27,26 @@
 🔗 **Ref & Info**
  <br/>[GitHub Docs](https://docs.github.com/ko)
  <br/>[GitHub Docs_Organization](https://docs.github.com/ko/organizations)
+
+
+### 한국어 설명 갑니당 :) 
+
+#### 프로젝트 레파지토리 생성 방법
+
+1. **Repositories 이동**
+   - "New Repository" 클릭
+
+2. **레파지토리 정보 입력**
+   - **Repository name**: 프로젝트 코드명 입력 (공백 및 특수문자 X)
+   - **Description** (optional):  
+  
+
+
+
+
+
+
+
+
+
+
