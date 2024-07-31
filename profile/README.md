@@ -23,10 +23,12 @@
 4. **Create Repository**
    - Click the "Create repository" button
 
----
-### 한국어 설명 갑니당 :) 
 
-#### 프로젝트 레파지토리 생성 방법
+---
+**한국어 설명 갑니당 :)**
+
+
+### 프로젝트 레파지토리 생성 방법
 
 1. **Repositories 이동**
    - "New Repository" 클릭
@@ -39,15 +41,49 @@
 
 3. **레파지토리 생성** 
    - "Create repository" 클릭
+
+     
 ---
-#### README 작성 규칙
+### README 작성 규칙
 
-1. 
+#### 🙋최초생성자
+
+**작성 내용**
+- Create by OOO 
+- 프로젝트 요약
+- 코드 설명 및 활용 목적
+- 코드 실행 환경
+  <e.g.>
+  **운영 체제 (OS)**: Window 11
+  **파이썬 버전: Python 3.11.9**
+  **IDE/에디터**: Google Colab
+  **가상환경 (선택사항)**: pyenv 3.9.19 
+
+#### 💁추가입력자
+
+**작성 내용**
+- Update by OOO
+- 코드 설명 및 활용 목적
+- 코드 실행 환경
+
 
 ---
-#### About (Repository Details) 작성 방법
+### About (Repository Details) 작성 방법
 
-1. ⚙
+1. **⚙ 클릭**
+
+2. **Description**
+   - 레파지토리 생성 시 작성했던 Description 자동 적용
+   - 내용 수정 필요 시 수정하면 됨
+  
+3. **Topics**
+   다른 사용자가 프로젝트를 찾고 참여할 수 있도록 레파지토리에 프로젝트가 의도한 목적, 주제 영역, 중요한 특성 등을 토픽 정보로 카테고라이징 할 수 있어요!
+   - 프로젝트와 관련있는 주제를 영어로 작성
+   - 드롭다운 목록에서 적합한 토픽 선택
+   - 목록에 없으면 스페이스 바로 토픽 생성 가능
+  
+4. **Save changes 클릭**
+
 
 ---
 🔗 **README 활용**
