@@ -10,6 +10,7 @@
       - Only one repository should be created per project.
    - Initial Creator: The project participant who first creates the repository.
    - Additional Contributor: A participant who joins a project with an already existing repository.
+
 **2. Repository**
      - Repository Name: Project Management Number_Customer (written in uppercase English letters)
      - Visibility: Must be set to Private.
