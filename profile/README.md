@@ -3,7 +3,18 @@
 #### 🚀 Let's Start our own smart(?) Github Life in the PM 1 Team by freely Uploading the Python Code used in respective Projects!       
 
 ---
-## 
+## Basic Rules
+
+**1. Terminology Concepts**
+   - Repository = Project
+      - Only one repository should be created per project.
+   - Initial Creator: The project participant who first creates the repository.
+   - Additional Contributor: A participant who joins a project with an already existing repository.
+**2. Repository**
+     - Repository Name: Project Management Number_Customer (written in uppercase English letters)
+     - Visibility: Must be set to Private.
+
+**3. README File**
 
 
 ---
@@ -32,8 +43,23 @@
 
 ---
 **🦄한국어 설명 갑니당 :)🦄**
+---
+## 기본 규칙
+
+**1. 용어 개념**
+   - 레파지토리 = 프로젝트
+   - 프로젝트 한 개당 레파지토리 한 개씩만 생성
+   - 최초생성자: 레파지토리를 최초로 생성한 프로젝트 참여자
+   - 추가입력자: 참여한 프로젝트의 레파지토리가 이미 생성되어 있어
+
+**2. 레파지토리**
+   - 레파지토리명: 프로젝트 관리 번호_고객사 (영문 대문자로 작성)
+   - 공개 범위: 무조건 Private 설정
+
+**3. 리드미 파일**
 
 
+---
 ## 🎢프로젝트 레파지토리 생성 방법🎢
 
 
