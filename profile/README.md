@@ -3,7 +3,8 @@
 #### 🚀 Let's Start our own smart(?) Github Life in the PM 1 Team by freely Uploading the Python Code used in respective Projects!               
 ---
 ## 🗽Follow the steps below carefully, Creating a New Repository for your Project🗽
-
+<br/>
+<br/>
 1. **Creat a New Repository**
    - Click on the "New Repository"
   
@@ -22,14 +23,16 @@
 
 4. **Create Repository**
    - Click the "Create repository" button
-
-
+<br/>
+<br/>
+<br/>
 ---
 **🦄한국어 설명 갑니당 :)🦄**
-
-
+<br/>
+<br/>
 ## 🎢프로젝트 레파지토리 생성 방법🎢
-
+<br/>
+<br/>
 1. **Repositories 이동**
    - "New Repository" 클릭
 
@@ -41,13 +44,23 @@
 
 3. **레파지토리 생성** 
    - "Create repository" 클릭
+<br/>
+<br/>
+**레파지토리 삭제 방법**
+<br/>
+1. **삭제할 레파지토리 클릭
 
-     
+2. 
+<br/>
+<br/>
+<br/>
 ---
 ## 🚦README 작성 규칙🚦
-
+<br/>
+<br/>
 ### 🙋최초생성자
-
+<br/>
+<br/>
 **작성 내용**
 - Create by OOO 
 - 프로젝트 요약
@@ -58,17 +71,22 @@
   <br/>**파이썬 버전: Python 3.11.9**
   <br/>**IDE/에디터**: Google Colab
   <br/>**가상환경 (선택사항)**: pyenv 3.9.19 
-
+<br/>
+<br/>
 ### 💁추가입력자
-
+<br/>
+<br/>
 **작성 내용**
 - Update by OOO
 - 코드 설명 및 활용 목적
 - 코드 실행 환경
-
-
+<br/>
+<br/>
+<br/>
 ---
 ## 🚧About (Repository Details) 작성 방법🚧
+<br/>
+<br/>
 
 1. **⚙ 클릭**
 
@@ -78,19 +96,25 @@
   
 3. **Topics**
    다른 사용자가 프로젝트를 찾고 참여할 수 있도록 레파지토리에 프로젝트가 의도한 목적, 주제 영역, 중요한 특성 등을 토픽 정보로 카테고라이징 할 수 있어요!
-   _자신이 업로드한 코드에 부합하는 토픽으로 작성 해 주세요! (최초생성자, 추가입력자 모두 해당)_
+   <br/>_자신이 업로드한 코드에 부합하는 토픽으로 작성 해 주세요! (최초생성자, 추가입력자 모두 해당)_
    - 프로젝트와 관련있는 주제를 영어로 작성
    - 드롭다운 목록에서 적합한 토픽 선택
    - 목록에 없으면 스페이스 바로 토픽 생성 가능
   
 5. **Save changes 클릭**
-
-
+<br/>
+<br/>
+<br/>
 ---
+## 💡Tip💡
+<br/>
+<br/>
 🔗 **README 활용**
  <br/>[이모티콘](https://www.webfx.com/tools/emoji-cheat-sheet/)
  <br/>[마크다운/글꼴/목록/체크박스/구분선/이미지/인용글/코드블럭](https://luvris2.tistory.com/130)
-
+<br/>
+<br/>
+<br/>
 🔗 **Ref & Info**
  <br/>[GitHub Docs](https://docs.github.com/ko)
  <br/>[GitHub Docs_Repositories](https://docs.github.com/ko/repositories)
