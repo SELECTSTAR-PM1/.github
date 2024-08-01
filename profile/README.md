@@ -1,8 +1,8 @@
-## 👋 Welcome! SELECTSTAR PM 1 TEAM guys :) 👋
-### 📃 This page is Guide on How to Use SELECTSTAR-PM1 GitHub
-### 🚀 Let's Start our own smart(?) Github Life in the PM 1 Team by freely Uploading the Python Code used in respective Projects!               
+# 👋 Welcome! SELECTSTAR PM 1 TEAM guys :) 👋
+#### 📃 This page is Guide on How to Use SELECTSTAR-PM1 GitHub
+#### 🚀 Let's Start our own smart(?) Github Life in the PM 1 Team by freely Uploading the Python Code used in respective Projects!               
 ---
-#### Follow the steps below carefully, Creating a New Repository for your Project
+## 🗽Follow the steps below carefully, Creating a New Repository for your Project🗽
 
 1. **Creat a New Repository**
    - Click on the "New Repository"
@@ -25,10 +25,10 @@
 
 
 ---
-**한국어 설명 갑니당 :)**
+**🦄한국어 설명 갑니당 :)🦄**
 
 
-### 프로젝트 레파지토리 생성 방법
+## 🎢프로젝트 레파지토리 생성 방법🎢
 
 1. **Repositories 이동**
    - "New Repository" 클릭
@@ -44,7 +44,7 @@
 
      
 ---
-### README 작성 규칙
+## 🚦README 작성 규칙🚦
 
 #### 🙋최초생성자
 
@@ -68,7 +68,7 @@
 
 
 ---
-### About (Repository Details) 작성 방법
+## 🚧About (Repository Details) 작성 방법🚧
 
 1. **⚙ 클릭**
 
@@ -78,11 +78,12 @@
   
 3. **Topics**
    다른 사용자가 프로젝트를 찾고 참여할 수 있도록 레파지토리에 프로젝트가 의도한 목적, 주제 영역, 중요한 특성 등을 토픽 정보로 카테고라이징 할 수 있어요!
+   _자신이 업로드한 코드에 부합하는 토픽으로 작성 해 주세요! (최초생성자, 추가입력자 모두 해당)_
    - 프로젝트와 관련있는 주제를 영어로 작성
    - 드롭다운 목록에서 적합한 토픽 선택
    - 목록에 없으면 스페이스 바로 토픽 생성 가능
   
-4. **Save changes 클릭**
+5. **Save changes 클릭**
 
 
 ---
