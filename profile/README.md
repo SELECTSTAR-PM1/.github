@@ -3,6 +3,10 @@
 #### 🚀 Let's Start our own smart(?) Github Life in the PM 1 Team by freely Uploading the Python Code used in respective Projects!       
 
 ---
+## 
+
+
+---
 ## 🗽Follow the steps below carefully, Creating a New Repository for your Project🗽
 
 1. **Creat a New Repository**
@@ -16,10 +20,10 @@
 3. **Initialize Repository**
    - **Initialize this repository with a README**: Enter the environment for Running Python Code
    <br/><e.g.>
-     <br/>**Operating System** (Specify yours OS): *Window 11* or *macOS Sonoma* or *Ubuntu 20.04 LTS* .. 
-     <br/>**Python Version** (Specify the version): *Python 3.11.9* or *3.9.13* ..
-     <br/>**IDE/Editor** (Specify the IDE or editor used): *Jupyter Notebooks on VS Code* or *Jupyter Notebook* or *PyCharm* ..
-     <br/>**Virtualenv** (Optional): *pyenv 3.9.19* or *conda 4.11.0* ..
+     <br/>Operating System (Specify yours OS): *Window 11* or *macOS Sonoma* or *Ubuntu 20.04 LTS* .. 
+     <br/>Python Version (Specify the version): *Python 3.11.9* or *3.9.13* ..
+     <br/>IDE/Editor (Specify the IDE or editor used): *Jupyter Notebooks on VS Code* or *Jupyter Notebook* or *PyCharm* ..
+     <br/>Virtualenv (Optional): *pyenv 3.9.19* or *conda 4.11.0* ..
 
 4. **Create Repository**
    - Click the "Create repository" button
@@ -37,7 +41,9 @@
    - "New Repository" 클릭
 
 2. **레파지토리 정보 입력**
-   - **Repository name**: 프로젝트명 입력 (공백 및 특수문자 불가 & 숫자, 하이픈-, 언더바_ 사용 가능)
+   - **Repository name**: 프로젝트명 입력 (영문으로만 작성 & 공백 및 특수문자 불가 & 숫자, 하이픈-, 언더바_ 사용 가능)
+                          <br/>프로젝트 관리 번호_고객사
+                          <br/><e.g.> 23-DS-109_SKT, 24-DS-100_NAVER_VLM_ConnectX
    - **Description**: 프로젝트 목적 및 설명 간략하게 작성
    - **Visibility**: **Private** 선택 (비공개 레파지토리: 본인 및 초대받은 사람에게만 공개) 
    - **Initialize Repository**: **Add a README file** 선택
@@ -47,11 +53,22 @@
 
 
 
-**레파지토리 삭제 방법**
+**❗레파지토리 삭제 방법❗**
 
-1. **삭제할 레파지토리 클릭
+1. **삭제할 레파지토리 클릭**
 
-2. 
+2. **상단 '⚙ Settings' 클릭**
+
+3. **Danger Zone의 Delete this repository 클릭**
+   - 설정 페이지 제일 하단에 위치한 **Danger Zone**에서 **Delete this Repository** 선택
+   - 생성 팝업창의 **I want to delete this repository** 클릭
+   - 생성 팝업창의 **I have read an understand these effects** 클릭
+   - 생성 팝업창에서 "SELECTSTAR-PM1/_레파지토리명_" 작성 (쌍따옴표 안에 적혀있는 텍스트 복붙 OK)
+   - 활성화된 **Delete this repository** 클릭
+
+4. **레파지토리 삭제 완료**
+
+⚠레파지토리 삭제 ⚠
 
 
 
@@ -59,21 +76,24 @@
 ## 🚦README 작성 규칙🚦
 
 
-### 🙋최초생성자
+### 🙋최초생성자 _프로젝트 레파지토리 
+
 
 **작성 내용**
 - Create by OOO 
 - 프로젝트 요약
 - 코드 설명 및 활용 목적
 - 코드 실행 환경
-  <e.g.>
-  <br/>**운영 체제 (OS)**: Window 11
-  <br/>**파이썬 버전: Python 3.11.9**
-  <br/>**IDE/에디터**: Google Colab
-  <br/>**가상환경 (선택사항)**: pyenv 3.9.19 
+  <br/><e.g.>
+  <br/>운영체제 (OS): Window 11
+  <br/>파이썬 버전: Python 3.11.9
+  <br/>IDE/에디터: Google Colab
+  <br/>가상환경 (선택사항): pyenv 3.9.19 
 
 
-### 💁추가입력자
+
+### 💁프로젝트에 사용한 코드 추가입력자
+
 
 **작성 내용**
 - Update by OOO
@@ -93,7 +113,7 @@
    - 내용 수정 필요 시 수정하면 됨
   
 3. **Topics**
-   다른 사용자가 프로젝트를 찾고 참여할 수 있도록 레파지토리에 프로젝트가 의도한 목적, 주제 영역, 중요한 특성 등을 토픽 정보로 카테고라이징 할 수 있어요!
+   <br/>다른 사용자가 프로젝트를 찾고 참여할 수 있도록 레파지토리에 프로젝트가 의도한 목적, 주제 영역, 중요한 특성 등을 토픽 정보로 카테고라이징 할 수 있어요!
    <br/>_자신이 업로드한 코드에 부합하는 토픽으로 작성 해 주세요! (최초생성자, 추가입력자 모두 해당)_
    - 프로젝트와 관련있는 주제를 영어로 작성
    - 드롭다운 목록에서 적합한 토픽 선택
