@@ -3,7 +3,7 @@
 #### 🚀 Let's Start our own smart(?) Github Life in the PM 1 Team by freely Uploading the Python Code used in respective Projects!       
 
 ---
-## Basic Rules
+## 🚨Basic Rules🚨
 
 **1. Terminology Concepts**
    - Repository = Project
@@ -13,7 +13,7 @@
 
 **2. Repository**
      - Repository Name: Project Management Number_Customer (written in uppercase English letters)
-     - Visibility: Must be set to Private.
+     - Visibility: Must be set to **Private**.
 
 **3. README File**
 
@@ -45,20 +45,23 @@
 ---
 **🦄한국어 설명 갑니당 :)🦄**
 ---
-## 기본 규칙
+## 🚨기본 규칙🚨
 
 **1. 용어 개념**
    - 레파지토리 = 프로젝트
    - 프로젝트 한 개당 레파지토리 한 개씩만 생성
    - 최초생성자: 레파지토리를 최초로 생성한 프로젝트 참여자
-   - 추가입력자: 참여한 프로젝트의 레파지토리가 이미 생성되어 있어
+   - 추가입력자: 참여한 프로젝트의 레파지토리가 이미 생성되어 있어 프로젝트에 사용한 코드 파일을 추가로 업데이트 하는 참여자 
 
 **2. 레파지토리**
    - 레파지토리명: 프로젝트 관리 번호_고객사 (영문 대문자로 작성)
-   - 공개 범위: 무조건 Private 설정
+   - 공개 범위: 무조건 **Private** 설정
 
 **3. 리드미 파일**
-
+   - h1 헤더로 레파지토리명 작성
+   - 레파지토리 생성 시 작성했던 Description (프로젝트 목적 및 간략 설명) 내용 복붙
+   - 구분선 생성 <미들바(---) or 언더바(___) or 별표(***)>
+   - 하단🚦README 작성 규칙🚦 
 
 ---
 ## 🎢프로젝트 레파지토리 생성 방법🎢
@@ -95,15 +98,14 @@
 
 4. **레파지토리 삭제 완료**
 
-⚠레파지토리 삭제 ⚠
-
+⚠레파지토리 삭제할 일 없도록 처음부터 잘 생성할 것! **프로젝트 하나**당 **레파지토리 한 개**입니다!⚠
 
 
 ---
 ## 🚦README 작성 규칙🚦
 
 
-### 🙋최초생성자 _프로젝트 레파지토리 
+### 🙋최초생성자 _프로젝트 레파지토리 최초 생성자 
 
 
 **작성 내용**
@@ -119,14 +121,19 @@
 
 
 
-### 💁프로젝트에 사용한 코드 추가입력자
+### 💁추가입력자 _프로젝트에 사용한 코드 추가 입력자
 
 
 **작성 내용**
+- 구분선 생성 <미들바(---) or 언더바(___) or 별표(***)>
 - Update by OOO
 - 코드 설명 및 활용 목적
 - 코드 실행 환경
-
+  <br/><e.g.>
+  <br/>운영체제 (OS): Window 11
+  <br/>파이썬 버전: Python 3.11.9
+  <br/>IDE/에디터: Google Colab
+  <br/>가상환경 (선택사항): pyenv 3.9.19 
 
 
 ---
